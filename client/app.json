@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Beary",
+    "icon": "./Assets/logo.png",
+    "version": "1.0.0",
+    "slug": "beary-bot-cxa2018",
+    "sdkVersion": "28.0.0",
+    "ios": {
+      "bundleIdentifier": "com.cxa2018.bearybot"
+    },
+    "android": {
+      "package": "com.cxa2018.bearybot"
+    }
+  }
+}
